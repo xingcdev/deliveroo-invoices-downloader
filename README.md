@@ -1,6 +1,6 @@
 # Deliveroo invoices scraper
 
-A automation script written in Python 3.6.9 using [requests](https://requests.readthedocs.io/) module.
+An automation script written in Python 3.6.9 using [requests](https://requests.readthedocs.io/) module.
 It will download restaurant invoices from [Deliveroo Restaurant Hub](https://restaurant-hub.deliveroo.net/).
 
 Deliveroo Restaurant Hub is used for Deliveroo partner restorers to manage their restaurant, track customers orders or download invoices.
